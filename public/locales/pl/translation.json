@@ -1,0 +1,37 @@
+{
+  "headerHome": "Home",
+  "headerAbout": "O mnie",
+  "headerPortfolio": "Portfolio",
+  "headerContact": "Kontakt",
+
+  "homeHeader": "<0>Cześć,</0> Jestem MAREK <2>PATYNA</2>",
+  "downloadCV": "POBIERZ CV",
+  "scroll": "Zjedź w dół",
+
+  "aboutHeader": "O MNIE",
+  "aboutInfo": "Jestem Junior Frontend React Developerem z pasją do tworzenia estetycznych i funkcjonalnych stron internetowych. Moja wiedza obejmuje HTML, CSS, JavaScript, React.js, Redux Toolkit, Styled-Components, Axios, Git, GitHub oraz Npm. Dzięki moim umiejętnościom oraz doświadczeniu dostarczam wysokiej jakości witryny, które są nie tylko atrakcyjne wizualnie, ale także przyjazne dla użytkownika i responsywne.  Jestem zaangażowany w śledzenie najnowszych trendów i technologii w branży. Wierzę w podejście do rozwoju, współpracując blisko z klientami, aby zrozumieć ich potrzeby i cele. Moja dbałość o szczegóły i umiejętność rozwiązywania problemów pozwalają mi na dostarczanie rozwiązań dostosowanych do unikalnych wymagań każdego projektu. Jeśli szukasz wykwalifikowanego i ambitnego Junior Frontend React Developera, który wprowadzi Twoją wizję w życie, nie szukaj dalej. Pracujmy razem, aby stworzyć coś naprawdę niesamowitego!",
+  "aboutLng": "Języki Programowania:",
+  "aboutFrame": "Biblioteki & Frameworki:",
+  "aboutTools": "Narzędzia:",
+
+  "portfolioHeader": "PORTFOLIO",
+  "portfolioInfo": "Znajdziesz tutaj moje osobiste projekty oraz te które zostały stworzone dla klientów.",
+  "portfolioTrio": "Projekt ten polegał na zaprojektowaniu nowej strony internetowej dla firmy cateringowej, która specjalizuje się w dostarczaniu jedzenia na różnego rodzaju wydarzenia. Strona została zaprojektowana w sposób, który ma przyciągać uwagę potencjalnych klientów i zachęcać ich do skorzystania z usług firmy. W projekcie uwzględniono także responsywność witryny, co pozwala na jej poprawne wyświetlanie na różnych urządzeniach.",
+  "portfolioAdmin": "Jest to projekt, który miał na celu stworzenie intuicyjnego i skutecznego narzędzia dla administratorów stron internetowych. Dzięki temu panelowi można w łatwy sposób zarządzać treścią, edytować dane oraz monitorować statystyki. Należy zaznaczyć, że wersja tej witryny jest dostępna wyłącznie dla użytkowników korzystających z komputerów i laptopów, co oznacza, że nie jest kompatybilna z urządzeniami mobilnymi.",
+  "portfolioBuffer": "Projekt ten polegał na stworzeniu kopii strony głównej buffer.com. W ramach projektu wykonałem dokładną analizę pierwotnej strony startowej oraz jej funkcjonalności i na ich podstawie opracowałem identyczną wersję wizualną. W projekcie zadbałem o responsywność witryny, co pozwala na jej poprawne wyświetlanie na różnych urządzeniach.",
+  "portfolioMy": "Celem projektu było stworzenie profesjonalnego portfolio, które umożliwia prezentację mojego doświadczenia i umiejętności. Strona zawiera informacje o mnie, moim stacku technologicznym oraz portfolio z projektami, nad którymi pracowałem. Dodatkowo, znajdziesz tutaj sekcję pozwalającą na kontakt ze mną. Wszystkie elementy zostały starannie zaprojektowane i zoptymalizowane, aby zapewnić jak najlepsze wrażenia użytkownikom.",
+  "portfolioMyName": "Osobiste Portfolio",
+  "portfolioCode": "Kod",
+  "portfolioLive": "Zobacz Online",
+
+  "contactHeader": "NAPISZ DO MNIE!",
+  "contactInfo": "Masz pytanie lub propozycję, a może po prostu chcesz się przywitać? Zapraszam.",
+  "emailJsName": "Imię",
+  "emailJsNamePlace": "Wpisz swoje imię",
+  "emailJsEmail": "Email",
+  "emailJsEmailPlace": "Wpisz swój e-mail",
+  "emailJsMessage": "Wiadomość",
+  "emailJsButton": "Wyślij",
+  "emailJsSend": "Twoja wiadomość została wysłana!",
+  "emailJsDecline": "Proszę wypełnić wszystkie wymagane pola!"
+}

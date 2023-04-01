@@ -1,0 +1,37 @@
+{
+  "headerHome": "Home",
+  "headerAbout": "About",
+  "headerPortfolio": "Portfolio",
+  "headerContact": "Contact",
+
+  "homeHeader": "<0>Hello,</0> I'm MAREK <2>PATYNA</2>",
+  "downloadCV": "DOWNLOAD CV",
+  "scroll": "Scroll Down",
+
+  "aboutHeader": "ABOUT ME",
+  "aboutInfo": "I am a Junior Frontend React Developer with a passion for creating aesthetically pleasing and functional websites. My expertise includes HTML, CSS, JavaScript, React.js, Redux Toolkit, Styled-Components, Axios, Git, GitHub and Npm. With my skills and experience, I deliver high-quality websites that are not only visually appealing, but also user-friendly and responsive.  I am committed to keeping up with the latest trends and technologies in the industry. I believe in a development approach, working closely with clients to understand their needs and goals. My attention to detail and problem-solving skills allow me to provide solutions tailored to the unique requirements of each project. If you are looking for a skilled and ambitious Junior Frontend React Developer to bring your vision to life, look no further. Let's work together to create something truly amazing!",
+  "aboutLng": "Programming Languages:",
+  "aboutFrame": "Libraries & Frameworks:",
+  "aboutTools": "Tools:",
+
+  "portfolioHeader": "PORTFOLIO",
+  "portfolioInfo": "Here you will find my personal projects and those created for clients.",
+  "portfolioTrio": "This project consisted of designing a new website for a catering company that specializes in providing food for various events. The site was designed to attract the attention of potential customers and encourage them to use the company's services. Responsiveness of the site was also included in the design, allowing it to be displayed correctly on various devices.",
+  "portfolioAdmin": "This is a project that aimed to create an intuitive and effective tool for website administrators. With this panel, you can easily manage content, edit data and monitor statistics. It should be noted that the version of this site is only available for users using computers and laptops, which means that it is not compatible with mobile devices.",
+  "portfolioBuffer": "This project consisted of creating a copy of the buffer.com homepage. As part of the project, I performed a thorough analysis of the original homepage and its functionality, and based on that I developed an identical visual version. In the project I took care of the responsiveness of the site, which allows it to be displayed correctly on different devices.",
+  "portfolioMy": "The goal of the project was to create a professional portfolio to showcase my experience and skills. The site contains information about me, my technology stack and a portfolio with projects I have worked on. In addition, you will find a section that allows you to contact me. All elements have been carefully designed and optimized to provide the best possible user experience.",
+  "portfolioMyName": "Personal Portfolio",
+  "portfolioCode": "Code",
+  "portfolioLive": "Check Online",
+
+  "contactHeader": "SEND ME A MESSAGE!",
+  "contactInfo": "Got a question or proposal, or just want to say hello? Go ahead.",
+  "emailJsName": "Name",
+  "emailJsNamePlace": "Enter your name",
+  "emailJsEmail": "Email",
+  "emailJsEmailPlace": "Enter your e-mail",
+  "emailJsMessage": "Message",
+  "emailJsButton": "Send",
+  "emailJsSend": "Your message has been sent!",
+  "emailJsDecline": "Please fill in all required fields!"
+}
